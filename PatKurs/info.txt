@@ -1,0 +1,6 @@
+Camping 100 100
+Home 200 200 
+Work 500 200
+Chill 500 100 
+Police 600 600
+Hospital 550 200
